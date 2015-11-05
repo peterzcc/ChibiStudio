@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?metadataRepository version='1.1.0'?>
+<repository name='update site: http://embsysregview.sourceforge.net/update' type='org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository' version='1.0.0'>
+  <properties size='2'>
+    <property name='p2.timestamp' value='1428829002187'/>
+    <property name='site.checksum' value='489922569'/>
+  </properties>
+  <units size='7'>
+    <unit id='org.eclipse.cdt.embsysregview_feature.feature.jar' version='0.2.5'>
+      <properties size='3'>
+        <property name='org.eclipse.equinox.p2.name' value='Embedded Systems Register View (SFR)'/>
+        <property name='org.eclipse.equinox.p2.description' value='This Plugin provides a Embedded Systems Peripherals Register&#xA;View'/>
+        <property name='org.eclipse.equinox.p2.description.url' value='http://embsysregview.sourceforge.net/'/>
+      </properties>
+      <provides size='3'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.embsysregview_feature.feature.jar' version='0.2.5'/>
+        <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='feature' version='1.0.0'/>
+        <provided namespace='org.eclipse.update.feature' name='org.eclipse.cdt.embsysregview_feature' version='0.2.5'/>
+      </provides>
+      <filter>
+        (org.eclipse.update.install.features=true)
+      </filter>
+      <artifacts size='1'>
+        <artifact classifier='org.eclipse.update.feature' id='org.eclipse.cdt.embsysregview_feature' version='0.2.5'/>
+      </artifacts>
+      <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
+      <touchpointData size='1'>
+        <instructions size='1'>
+          <instruction key='zipped'>
+            true
+          </instruction>
+        </instructions>
+      </touchpointData>
+      <licenses size='1'>
+        <license uri='http://www.eclipse.org/legal/epl-v10.html' url='http://www.eclipse.org/legal/epl-v10.html'>
+          Copyright (c) 2015 EmbSysRegView&#xA;All rights reserved. This program and the accompanying materials&#xA;are made available under the terms of the Eclipse Public License v1.0&#xA;which accompanies this distribution, and is available at&#xA;http://www.eclipse.org/legal/epl-v10.html
+        </license>
+      </licenses>
+    </unit>
+    <unit id='org.eclipse.cdt.embsysregview.data' version='0.2.5.r180' singleton='false'>
+      <update id='org.eclipse.cdt.embsysregview.data' range='[0.0.0,0.2.5.r180)' severity='0'/>
+      <properties size='1'>
+        <property name='org.eclipse.equinox.p2.partial.iu' value='true'/>
+      </properties>
+      <provides size='3'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.embsysregview.data' version='0.2.5.r180'/>
+        <provided namespace='osgi.bundle' name='org.eclipse.cdt.embsysregview.data' version='0.2.5.r180'/>
+        <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='bundle' version='1.0.0'/>
+      </provides>
+      <artifacts size='1'>
+        <artifact classifier='osgi.bundle' id='org.eclipse.cdt.embsysregview.data' version='0.2.5.r180'/>
+      </artifacts>
+      <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
+      <touchpointData size='1'>
+        <instructions size='2'>
+          <instruction key='zipped'>
+            true
+          </instruction>
+          <instruction key='manifest'>
+            Bundle-SymbolicName: org.eclipse.cdt.embsysregview.data&#xA;Bundle-Version: 0.2.5.r180&#xA;
+          </instruction>
+        </instructions>
+      </touchpointData>
+    </unit>
+    <unit id='org.eclipse.cdt.embsysregview_feature.feature.group' version='0.2.5' singleton='false'>
+      <update id='org.eclipse.cdt.embsysregview_feature.feature.group' range='[0.0.0,0.2.5)' severity='0'/>
+      <properties size='4'>
+        <property name='org.eclipse.equinox.p2.name' value='Embedded Systems Register View (SFR)'/>
+        <property name='org.eclipse.equinox.p2.description' value='This Plugin provides a Embedded Systems Peripherals Register&#xA;View'/>
+        <property name='org.eclipse.equinox.p2.description.url' value='http://embsysregview.sourceforge.net/'/>
+        <property name='org.eclipse.equinox.p2.type.group' value='true'/>
+      </properties>
+      <provides size='1'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.embsysregview_feature.feature.group' version='0.2.5'/>
+      </provides>
+      <requires size='13'>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.ui' range='0.0.0'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.core.runtime' range='0.0.0'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.debug.ui' range='0.0.0'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.debug.core' range='0.0.0'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.debug.mi.core' range='5.0.1'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.launch' range='0.0.0'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.dsf.ui' range='0.0.0'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.dsf.gdb' range='0.0.0'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.dsf' range='0.0.0'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.ui.forms' range='0.0.0'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.embsysregview.data' range='0.2.3'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.embsysregview' range='[0.2.5,0.2.5]'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.embsysregview_feature.feature.jar' range='[0.2.5,0.2.5]'>
+          <filter>
+            (org.eclipse.update.install.features=true)
+          </filter>
+        </required>
+      </requires>
+      <touchpoint id='null' version='0.0.0'/>
+      <licenses size='1'>
+        <license uri='http://www.eclipse.org/legal/epl-v10.html' url='http://www.eclipse.org/legal/epl-v10.html'>
+          Copyright (c) 2015 EmbSysRegView&#xA;All rights reserved. This program and the accompanying materials&#xA;are made available under the terms of the Eclipse Public License v1.0&#xA;which accompanies this distribution, and is available at&#xA;http://www.eclipse.org/legal/epl-v10.html
+        </license>
+      </licenses>
+    </unit>
+    <unit id='org.eclipse.cdt.embsysregview' version='0.2.5' singleton='false'>
+      <update id='org.eclipse.cdt.embsysregview' range='[0.0.0,0.2.5)' severity='0'/>
+      <properties size='1'>
+        <property name='org.eclipse.equinox.p2.partial.iu' value='true'/>
+      </properties>
+      <provides size='3'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.embsysregview' version='0.2.5'/>
+        <provided namespace='osgi.bundle' name='org.eclipse.cdt.embsysregview' version='0.2.5'/>
+        <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='bundle' version='1.0.0'/>
+      </provides>
+      <artifacts size='1'>
+        <artifact classifier='osgi.bundle' id='org.eclipse.cdt.embsysregview' version='0.2.5'/>
+      </artifacts>
+      <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
+      <touchpointData size='1'>
+        <instructions size='1'>
+          <instruction key='manifest'>
+            Bundle-SymbolicName: org.eclipse.cdt.embsysregview&#xA;Bundle-Version: 0.2.5&#xA;
+          </instruction>
+        </instructions>
+      </touchpointData>
+    </unit>
+    <unit id='http://embsysregview.sourceforge.net/update/site.xml.embsysregview' version='1.0.0.0777IcLTcyL8k5I3'>
+      <properties size='3'>
+        <property name='org.eclipse.equinox.p2.name' value='embsysregview'/>
+        <property name='org.eclipse.equinox.p2.description' value='Embedded System Peripherals Register View'/>
+        <property name='org.eclipse.equinox.p2.type.category' value='true'/>
+      </properties>
+      <provides size='1'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='http://embsysregview.sourceforge.net/update/site.xml.embsysregview' version='1.0.0.0777IcLTcyL8k5I3'/>
+      </provides>
+      <requires size='2'>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.embsysregview_feature.feature.group' range='[0.2.5,0.2.5]'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.embsysregview.data_feature.feature.group' range='[0.2.5.r180,0.2.5.r180]'/>
+      </requires>
+      <touchpoint id='null' version='0.0.0'/>
+    </unit>
+    <unit id='org.eclipse.cdt.embsysregview.data_feature.feature.jar' version='0.2.5.r180'>
+      <properties size='3'>
+        <property name='org.eclipse.equinox.p2.name' value='EmbSysRegView Data'/>
+        <property name='org.eclipse.equinox.p2.description' value='This Plugin provides the XML data files for the Embedded Systems Peripherals Register&#xA;View'/>
+        <property name='org.eclipse.equinox.p2.description.url' value='http://embsysregview.sourceforge.net/'/>
+      </properties>
+      <provides size='3'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.embsysregview.data_feature.feature.jar' version='0.2.5.r180'/>
+        <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='feature' version='1.0.0'/>
+        <provided namespace='org.eclipse.update.feature' name='org.eclipse.cdt.embsysregview.data_feature' version='0.2.5.r180'/>
+      </provides>
+      <filter>
+        (org.eclipse.update.install.features=true)
+      </filter>
+      <artifacts size='1'>
+        <artifact classifier='org.eclipse.update.feature' id='org.eclipse.cdt.embsysregview.data_feature' version='0.2.5.r180'/>
+      </artifacts>
+      <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
+      <touchpointData size='1'>
+        <instructions size='1'>
+          <instruction key='zipped'>
+            true
+          </instruction>
+        </instructions>
+      </touchpointData>
+      <licenses size='1'>
+        <license uri='http://www.eclipse.org/legal/epl-v10.html' url='http://www.eclipse.org/legal/epl-v10.html'>
+          Copyright (c) 2015 EmbSysRegView&#xA;All rights reserved. This program and the accompanying materials&#xA;are made available under the terms of the Eclipse Public License v1.0&#xA;which accompanies this distribution, and is available at&#xA;http://www.eclipse.org/legal/epl-v10.html
+        </license>
+      </licenses>
+    </unit>
+    <unit id='org.eclipse.cdt.embsysregview.data_feature.feature.group' version='0.2.5.r180' singleton='false'>
+      <update id='org.eclipse.cdt.embsysregview.data_feature.feature.group' range='[0.0.0,0.2.5.r180)' severity='0'/>
+      <properties size='4'>
+        <property name='org.eclipse.equinox.p2.name' value='EmbSysRegView Data'/>
+        <property name='org.eclipse.equinox.p2.description' value='This Plugin provides the XML data files for the Embedded Systems Peripherals Register&#xA;View'/>
+        <property name='org.eclipse.equinox.p2.description.url' value='http://embsysregview.sourceforge.net/'/>
+        <property name='org.eclipse.equinox.p2.type.group' value='true'/>
+      </properties>
+      <provides size='1'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.embsysregview.data_feature.feature.group' version='0.2.5.r180'/>
+      </provides>
+      <requires size='2'>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.embsysregview.data' range='[0.2.5.r180,0.2.5.r180]'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.cdt.embsysregview.data_feature.feature.jar' range='[0.2.5.r180,0.2.5.r180]'>
+          <filter>
+            (org.eclipse.update.install.features=true)
+          </filter>
+        </required>
+      </requires>
+      <touchpoint id='null' version='0.0.0'/>
+      <licenses size='1'>
+        <license uri='http://www.eclipse.org/legal/epl-v10.html' url='http://www.eclipse.org/legal/epl-v10.html'>
+          Copyright (c) 2015 EmbSysRegView&#xA;All rights reserved. This program and the accompanying materials&#xA;are made available under the terms of the Eclipse Public License v1.0&#xA;which accompanies this distribution, and is available at&#xA;http://www.eclipse.org/legal/epl-v10.html
+        </license>
+      </licenses>
+    </unit>
+  </units>
+</repository>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.cdt.ui.CElementWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343071259562_11" label="ChibiOS/RT STM32 Demos" name="ChibiOS/RT STM32 Demos">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM4-STM32F429-DISCOVERY" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM4-STM32F407-DISCOVERY-G++" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM3-STM32L152-DISCOVERY" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM4-STM32F407-LWIP-FATFS-USB" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM3-STM32F107-LWIP" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM4-STM32F373-STM32373C_EVAL" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM3-STM32F107-FATFS" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM4-STM32F407-DISCOVERY" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM4-STM32F407-DISCOVERY-MEMS" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM3-STM32F103-G++" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM3-STM32F107" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM3-STM32F103" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM4-STM32F407-LWIP" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM3-STM32F103-FATFS" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM4-STM32F303-DISCOVERY" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM0-STM32F051-DISCOVERY" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM3-STM32F103ZG-FATFS" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM3-STM32F100-DISCOVERY" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ARMCM4-STM32F401C-DISCOVERY" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343071426062_14" label="Common" name="Common">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Documents" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ChibiOS-RT (whole tree)" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Tools" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.cdt.ui.CElementWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1370337312320_70" label="Others" name="Others"/>
+<workingSet editPageId="org.eclipse.cdt.ui.CElementWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1370415537356_74" label="STM32F30x" name="STM32F30x">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F30x-EXT" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F30x-PWM-ICU" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F30x-IRQ_STORM" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F30x-ADC_DUAL" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F30x-USB_CDC" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F30x-UART" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F30x-ADC" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F30x-CAN" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F30x-SPI" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.cdt.ui.CElementWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1370415910606_76" label="STM32F4xx" name="STM32F4xx">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F4xx-PWM-ICU" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F4xx-EXT" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F4xx-UART" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F4xx-RTC" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F4xx-USB_CDC" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F4xx-SDC" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F4xx-IRQ_STORM_FPU" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F4xx-I2C" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F4xx-GPT" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F4xx-IRQ_STORM" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F4xx-DMA_STORM" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F4xx-CAN" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F4xx-ADC" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F4xx-SPI" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.cdt.ui.CElementWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1370416307416_78" label="STM32F37x" name="STM32F37x">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F37x-PWM-ICU" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F37x-USB_CDC" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F37x-CAN" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F37x-ADC" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F37x-SDADC" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F37x-UART" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F37x-SPI" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F37x-I2C" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F37x-IRQ_STORM" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F37x-EXT" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.cdt.ui.CElementWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1370416732918_80" label="STM32F0xx" name="STM32F0xx">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F0xx-ADC" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F0xx-SPI" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F0xx-IRQ_STORM" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F0xx-PWM-ICU" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F0xx-UART" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32F0xx-EXT" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.cdt.ui.CElementWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1370416926033_82" label="STM32L1xx" name="STM32L1xx">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32L1xx-IRQ_STORM" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32L1xx-EXT" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32L1xx-UART" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32L1xx-PWM-ICU" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32L1xx-ADC" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/STM32L1xx-SPI" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343064392234_0" label="Window Working Set" name="Aggregate for window 1343064392234"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343064476718_1" label="Window Working Set" name="Aggregate for window 1343064476718"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343064496046_2" label="Window Working Set" name="Aggregate for window 1343064496046"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343064611265_3" label="Window Working Set" name="Aggregate for window 1343064611265"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343064845062_4" label="Window Working Set" name="Aggregate for window 1343064845062"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343065207421_5" label="Window Working Set" name="Aggregate for window 1343065207421"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343065590000_6" label="Window Working Set" name="Aggregate for window 1343065590000"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343065881328_7" label="Window Working Set" name="Aggregate for window 1343065881328"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343068274265_8" label="Window Working Set" name="Aggregate for window 1343068274265"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343071428750_15" label="Multiple Working Sets" name="Aggregate:Common:STM32 Demos:">
+<workingSet IMemento.internal.id="Common"/>
+<workingSet IMemento.internal.id="ChibiOS/RT STM32 Demos"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343073317125_12" label="Window Working Set" name="Aggregate for window 1343073317125"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343073455468_13" label="Window Working Set" name="Aggregate for window 1343073455468"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343143719671_14" label="Window Working Set" name="Aggregate for window 1343143719671"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343143963625_15" label="Window Working Set" name="Aggregate for window 1343143963625"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343144367140_18" label="Multiple Working Sets" name="Aggregate:ChibiOS/RT STM32 Demos:Common:">
+<workingSet IMemento.internal.id="ChibiOS/RT STM32 Demos"/>
+<workingSet IMemento.internal.id="Common"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343150618484_17" label="Window Working Set" name="Aggregate for window 1343150618484"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343151127812_18" label="Window Working Set" name="Aggregate for window 1343151127812"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343152113093_19" label="Window Working Set" name="Aggregate for window 1343152113093"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343153956625_20" label="Window Working Set" name="Aggregate for window 1343153956625"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343154997109_21" label="Window Working Set" name="Aggregate for window 1343154997109"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343236000390_22" label="Window Working Set" name="Aggregate for window 1343236000390"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343504262265_23" label="Window Working Set" name="Aggregate for window 1343504262265"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343553187303_24" label="Window Working Set" name="Aggregate for window 1343553187303"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1343554265663_25" label="Window Working Set" name="Aggregate for window 1343554265663"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1346778873218_26" label="Window Working Set" name="Aggregate for window 1346778873218"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1346874607187_27" label="Window Working Set" name="Aggregate for window 1346874607187"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1347088390906_28" label="Window Working Set" name="Aggregate for window 1347088390906"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1347089197125_29" label="Window Working Set" name="Aggregate for window 1347089197125"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1347089393015_30" label="Window Working Set" name="Aggregate for window 1347089393015"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1347126082046_31" label="Window Working Set" name="Aggregate for window 1347126082046"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1347127287671_32" label="Window Working Set" name="Aggregate for window 1347127287671"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1347178696625_33" label="Window Working Set" name="Aggregate for window 1347178696625"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1347188305497_34" label="Window Working Set" name="Aggregate for window 1347188305497"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1348040878875_35" label="Window Working Set" name="Aggregate for window 1348040878875"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1348767156000_36" label="Window Working Set" name="Aggregate for window 1348767156000"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1348904156406_37" label="Window Working Set" name="Aggregate for window 1348904156406"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1349293831906_38" label="Window Working Set" name="Aggregate for window 1349293831906"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1354977984515_39" label="Window Working Set" name="Aggregate for window 1354977984515"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1354978409078_40" label="Window Working Set" name="Aggregate for window 1354978409078"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1356181413953_41" label="Window Working Set" name="Aggregate for window 1356181413953"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1356367014609_42" label="Window Working Set" name="Aggregate for window 1356367014609"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1356771301021_43" label="Window Working Set" name="Aggregate for window 1356771301021"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1356795494990_44" label="Window Working Set" name="Aggregate for window 1356795494990"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1356795577678_45" label="Window Working Set" name="Aggregate for window 1356795577678"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1357667358578_46" label="Window Working Set" name="Aggregate for window 1357667358578"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1357667434312_47" label="Window Working Set" name="Aggregate for window 1357667434312"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1357668106765_48" label="Window Working Set" name="Aggregate for window 1357668106765"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1357668818265_49" label="Window Working Set" name="Aggregate for window 1357668818265"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1357668907093_50" label="Window Working Set" name="Aggregate for window 1357668907093"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1357668966109_51" label="Window Working Set" name="Aggregate for window 1357668966093"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1357669489812_52" label="Window Working Set" name="Aggregate for window 1357669489812"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1361212367750_53" label="Window Working Set" name="Aggregate for window 1361212367750"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1361215073265_54" label="Window Working Set" name="Aggregate for window 1361215073265"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1362297298093_55" label="Window Working Set" name="Aggregate for window 1362297298093"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1362298085671_56" label="Window Working Set" name="Aggregate for window 1362298085671"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1362298332703_57" label="Window Working Set" name="Aggregate for window 1362298332703"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1362901670828_58" label="Window Working Set" name="Aggregate for window 1362901670828"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1363207067406_59" label="Window Working Set" name="Aggregate for window 1363207067406"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1365835095828_60" label="Window Working Set" name="Aggregate for window 1365835095828"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1365835115031_61" label="Window Working Set" name="Aggregate for window 1365835115031"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1365836043562_62" label="Window Working Set" name="Aggregate for window 1365836043562"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1365836367500_63" label="Window Working Set" name="Aggregate for window 1365836367500"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1365836433968_64" label="Window Working Set" name="Aggregate for window 1365836433968"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1365839056937_65" label="Window Working Set" name="Aggregate for window 1365839056937"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1365839853343_66" label="Window Working Set" name="Aggregate for window 1365839853343"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1365846561593_67" label="Window Working Set" name="Aggregate for window 1365846561593"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1368365158906_68" label="Window Working Set" name="Aggregate for window 1368365158906"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1370337287732_69" label="Window Working Set" name="Aggregate for window 1370337287732"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1370337315721_71" label="Multiple Working Sets" name="Aggregate:ChibiOS/RT STM32 Demos:Common:Others:">
+<workingSet IMemento.internal.id="ChibiOS/RT STM32 Demos"/>
+<workingSet IMemento.internal.id="Common"/>
+<workingSet IMemento.internal.id="Others"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1370340089591_72" label="Window Working Set" name="Aggregate for window 1370340089591"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1370415503809_73" label="Window Working Set" name="Aggregate for window 1370415503809"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1370415541755_75" label="Multiple Working Sets" name="Aggregate:ChibiOS/RT STM32 Demos:Common:Others:STM32F3xx:">
+<workingSet IMemento.internal.id="ChibiOS/RT STM32 Demos"/>
+<workingSet IMemento.internal.id="Common"/>
+<workingSet IMemento.internal.id="Others"/>
+<workingSet IMemento.internal.id="STM32F30x"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1370415915598_77" label="Multiple Working Sets" name="Aggregate:ChibiOS/RT STM32 Demos:Common:Others:STM32F30x:STM32F4xx:">
+<workingSet IMemento.internal.id="ChibiOS/RT STM32 Demos"/>
+<workingSet IMemento.internal.id="Common"/>
+<workingSet IMemento.internal.id="Others"/>
+<workingSet IMemento.internal.id="STM32F30x"/>
+<workingSet IMemento.internal.id="STM32F4xx"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1370416314107_79" label="Multiple Working Sets" name="Aggregate:ChibiOS/RT STM32 Demos:Common:Others:STM32F30x:STM32F37x:STM32F4xx:">
+<workingSet IMemento.internal.id="ChibiOS/RT STM32 Demos"/>
+<workingSet IMemento.internal.id="Common"/>
+<workingSet IMemento.internal.id="Others"/>
+<workingSet IMemento.internal.id="STM32F30x"/>
+<workingSet IMemento.internal.id="STM32F37x"/>
+<workingSet IMemento.internal.id="STM32F4xx"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1370416735477_81" label="Multiple Working Sets" name="Aggregate:ChibiOS/RT STM32 Demos:Common:Others:STM32F0xx:STM32F30x:STM32F37x:STM32F4xx:">
+<workingSet IMemento.internal.id="ChibiOS/RT STM32 Demos"/>
+<workingSet IMemento.internal.id="Common"/>
+<workingSet IMemento.internal.id="Others"/>
+<workingSet IMemento.internal.id="STM32F0xx"/>
+<workingSet IMemento.internal.id="STM32F30x"/>
+<workingSet IMemento.internal.id="STM32F37x"/>
+<workingSet IMemento.internal.id="STM32F4xx"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1370416931415_83" label="Multiple Working Sets" name="Aggregate:ChibiOS/RT STM32 Demos:Common:Others:STM32F0xx:STM32F30x:STM32F37x:STM32F4xx:STM32L1xx:">
+<workingSet IMemento.internal.id="ChibiOS/RT STM32 Demos"/>
+<workingSet IMemento.internal.id="Common"/>
+<workingSet IMemento.internal.id="Others"/>
+<workingSet IMemento.internal.id="STM32F0xx"/>
+<workingSet IMemento.internal.id="STM32F30x"/>
+<workingSet IMemento.internal.id="STM32F37x"/>
+<workingSet IMemento.internal.id="STM32F4xx"/>
+<workingSet IMemento.internal.id="STM32L1xx"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1376822799984_84" label="Window Working Set" name="Aggregate for window 1376822799984"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1376825023421_85" label="Window Working Set" name="Aggregate for window 1376825023421"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1376826056140_86" label="Window Working Set" name="Aggregate for window 1376826056140"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1399295396189_87" label="Window Working Set" name="Aggregate for window 1399295396189"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1399296290186_88" label="Window Working Set" name="Aggregate for window 1399296290186"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1399296917510_89" label="Window Working Set" name="Aggregate for window 1399296917510"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1400417379618_90" label="Window Working Set" name="Aggregate for window 1400417379618"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1400950789953_91" label="Window Working Set" name="Aggregate for window 1400950789953"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1401445365562_92" label="Window Working Set" name="Aggregate for window 1401445365562"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1401452609390_93" label="Window Working Set" name="Aggregate for window 1401452609390"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1401615933572_94" label="Window Working Set" name="Aggregate for window 1401615933572"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1408866572437_95" label="Window Working Set" name="Aggregate for window 1408866572437"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1412403585000_96" label="Window Working Set" name="Aggregate for window 1412403585000"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1414522888437_97" label="Window Working Set" name="Aggregate for window 1414522888437"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1415133942734_98" label="Window Working Set" name="Aggregate for window 1415133942734"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1419331631687_99" label="Window Working Set" name="Aggregate for window 1419331631687"/>
+<mruList name="ChibiOS/RT STM32 Demos"/>
+</workingSetManager>

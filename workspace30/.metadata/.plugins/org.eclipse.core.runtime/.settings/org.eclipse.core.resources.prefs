@@ -1,0 +1,6 @@
+description.autobuilding=false
+eclipse.preferences.version=1
+pathvariable.CHIBIOS=C\:/ChibiStudio/chibios3
+pathvariable.CHIBI_STUDIO=C\:/ChibiStudio
+refresh.enabled=true
+version=1

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Documents</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>OpenOCD User’s Guide.pdf</name>
+			<type>1</type>
+			<locationURI>CHIBI_STUDIO/tools/openocd/OpenOCD%20User%E2%80%99s%20Guide.pdf</locationURI>
+		</link>
+		<link>
+			<name>readme.txt</name>
+			<type>1</type>
+			<locationURI>CHIBI_STUDIO/readme.txt</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.cdt.embsysregview_feature"
+      label="Embedded Systems Register View (SFR)"
+      version="0.2.5">
+
+   <description url="http://embsysregview.sourceforge.net/">
+      This Plugin provides a Embedded Systems Peripherals Register
+View
+   </description>
+
+   <license url="http://www.eclipse.org/legal/epl-v10.html">
+      Copyright (c) 2015 EmbSysRegView
+All rights reserved. This program and the accompanying materials
+are made available under the terms of the Eclipse Public License v1.0
+which accompanies this distribution, and is available at
+http://www.eclipse.org/legal/epl-v10.html
+   </license>
+
+   <requires>
+      <import plugin="org.eclipse.ui"/>
+      <import plugin="org.eclipse.core.runtime"/>
+      <import plugin="org.eclipse.debug.ui"/>
+      <import plugin="org.eclipse.cdt.debug.core"/>
+      <import plugin="org.eclipse.cdt.debug.mi.core" version="5.0.1" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.cdt.launch"/>
+      <import plugin="org.eclipse.cdt.dsf.ui"/>
+      <import plugin="org.eclipse.cdt.dsf.gdb"/>
+      <import plugin="org.eclipse.cdt.dsf"/>
+      <import plugin="org.eclipse.ui.forms"/>
+      <import plugin="org.eclipse.cdt.embsysregview.data" version="0.2.3" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.cdt.embsysregview"
+         download-size="400"
+         install-size="500"
+         version="0.2.5"
+         unpack="false"/>
+
+</feature>

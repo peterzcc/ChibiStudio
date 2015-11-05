@@ -1,0 +1,7 @@
+#encoding=UTF-8
+#version=1
+org.eclipse.tm.terminal.serial.source,2.1.400.201412161015,plugins/org.eclipse.tm.terminal.serial.source_2.1.400.201412161015.jar,-1,false
+org.eclipse.tm.terminal.source,3.3.0.201501281007,plugins/org.eclipse.tm.terminal.source_3.3.0.201501281007.jar,-1,false
+org.eclipse.tm.terminal.ssh.source,2.1.400.201412161015,plugins/org.eclipse.tm.terminal.ssh.source_2.1.400.201412161015.jar,-1,false
+org.eclipse.tm.terminal.telnet.source,2.1.400.201412161015,plugins/org.eclipse.tm.terminal.telnet.source_2.1.400.201412161015.jar,-1,false
+org.eclipse.tm.terminal.view.source,2.4.200.201412161015,plugins/org.eclipse.tm.terminal.view.source_2.4.200.201412161015.jar,-1,false

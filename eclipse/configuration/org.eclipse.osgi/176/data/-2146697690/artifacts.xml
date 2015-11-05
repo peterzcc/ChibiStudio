@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='update site: http://embsysregview.sourceforge.net/update' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='3'>
+    <property name='p2.timestamp' value='1428829026906'/>
+    <property name='eclipse.p2.force.threading' value='true'/>
+    <property name='site.checksum' value='489922569'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='4'>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.embsysregview.data' version='0.2.5.r180'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/embsysregview/org.eclipse.cdt.embsysregview.data_0.2.5.r180.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.cdt.embsysregview_feature' version='0.2.5'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/embsysregview/org.eclipse.cdt.embsysregview_feature_0.2.5.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.embsysregview' version='0.2.5'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/embsysregview/org.eclipse.cdt.embsysregview_0.2.5.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.cdt.embsysregview.data_feature' version='0.2.5.r180'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/embsysregview/org.eclipse.cdt.embsysregview.data_feature_0.2.5.r180.jar'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>
